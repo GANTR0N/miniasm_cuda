@@ -1,4 +1,4 @@
-CC=			gcc
+CC=			nvcc
 CFLAGS=		-g -Wall -O2 -Wc++-compat
 CPPFLAGS=
 INCLUDES=	-I.

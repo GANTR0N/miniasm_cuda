@@ -7,6 +7,7 @@
 #include "paf.h"
 #include "sdict.h"
 #include "miniasm.h"
+#include "cuda.h"
 
 #define MA_VERSION "0.3-r179"
 
